@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.valvesoftware.unity.openvr": {
+      "tarball": {
+        "hash": "ed75ef5483b5",
+        "mtime": 1667736175384,
+        "size": 15396624,
+        "localPath": "C:\\Users\\HCI LAB\\Downloads\\com.valvesoftware.unity.openvr-1.1.5.tgz"
+      }
+    }
+  }
+}
